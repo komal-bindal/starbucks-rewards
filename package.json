@@ -1,0 +1,19 @@
+{
+  "name": "starbucks_rewards",
+  "version": "1.0.0",
+  "description": "Assignment of making clone",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "Komal",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.0"
+  },
+  "dependencies": {
+    "vite": "^2.3.7"
+  }
+}
